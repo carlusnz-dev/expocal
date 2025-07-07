@@ -36,6 +36,13 @@ function Home() {
                     </Row>
                </Container>
 
+               <Container style={{ margin: "7rem auto" }}>
+                    <Row>
+                         <h1 className='text-center'>Convênio 2025 <span className='fw-bold'>CONFIRMADO</span></h1>
+                         <img src='/fotos/apocpracal_2025.jpg' className='img-fluid rounded-3' />
+                    </Row>
+               </Container>
+
                {/* About */}
                <Container className="back-primary text-light" fluid style={{ margin: "12rem auto 70px 0" }} id="AboutSection">
                     <Container className="py-5">
